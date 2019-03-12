@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gin Web Framework – Gin Web Framework</title>
+    <link>https://gin-gonic.com/ja/</link>
+    <description>Recent Hugo news from gohugo.io</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 16 Feb 2019 18:04:28 +0800</lastBuildDate>
+    <image>
+      <url>https://gin-gonic.com/img/hugo.png</url>
+      <title>GoHugo.io</title>
+      <link>https://gin-gonic.com/ja/</link>
+    </image>
+    
+	  <atom:link href="https://gin-gonic.com/ja/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+  </channel>
+</rss>
